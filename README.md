@@ -1,1 +1,1 @@
-Test is just a testnig 
+This is just a testing file 
